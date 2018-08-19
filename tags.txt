@@ -1,0 +1,11 @@
+0.1,Fenerbahce
+0.2,Galatasaray
+0.3,Besiktas
+0.4,Trabzonspor
+0.5,Bursaspor
+0.6,Genclerbirligi
+0.7,Sivasspor
+0.8,Gaziantepspor
+0.0,Ev_sahibi_kazanır
+0.5,Berabere
+1.0,Deplasmanda_oynayan_kazanır
